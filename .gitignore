@@ -1,0 +1,29 @@
+# Entornos virtuales
+.venv/
+env/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de configuración de PyCharm
+.idea/
+
+# Archivos de OpenCV (por ejemplo, archivos de caché de haarcascades)
+*.xml
+
+# Archivos temporales de PyGame (por ejemplo, capturas o logs)
+*.bmp
+*.png
+*.jpg
+*.jpeg
+*.log
+
+# Archivos de NumPy (archivos binarios)
+*.npy
+*.npz
+
+# Otros archivos temporales
+.DS_Store
+Thumbs.db
